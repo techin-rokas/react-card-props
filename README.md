@@ -1,2 +1,1 @@
-## 2 užduotis:
-Komponentų renderinimas 2
+## React Card Props
